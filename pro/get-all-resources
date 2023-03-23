@@ -2,37 +2,51 @@
 	"FLAG": true,
 	"SERVER": [{
 		"version_code": 3303,
-		"version_name": "1.0.0.0.0.0",
+		"version_name": "1.23.03.03.03.27.pro",
 		"type": "SERVER",
 		"data": "",
-		"created_at": "2020-01-01 00:00:00"
+		"created_at": "2023-03-03 03:27:20"
+	}],
+	"TEMP_SERVER": [{
+		"version_code": 3303,
+		"version_name": "1.23.03.03.03.27.pro",
+		"type": "TEMP_SERVER",
+		"data": "",
+		"created_at": "2023-03-03 03:27:20"
 	}],
 	"PAYLOAD": [{
-		"version_code": 9999999,
-		"version_name": "1.0.0.0.0.0",
+		"version_code": 3319,
+		"version_name": "1.23.03.12.09.35",
 		"type": "PAYLOAD",
 		"data": "",
-		"created_at": "2020-01-01 00:00:00"
+		"created_at": "2023-03-12 09:35:54"
 	}],
 	"GAMING_APP": [{
-		"version_code": 9999999,
-		"version_name": "1.0.0.0.0.0",
+		"version_code": 3322,
+		"version_name": "1.23.03.23.12.35",
 		"type": "GAMING_APP",
 		"data": "",
-		"created_at": "2020-01-01 00:00:00"
+		"created_at": "2023-03-23 12:35:26"
 	}],
 	"BLOCKED_APP": [{
-		"version_code": 9999999,
-		"version_name": "1.0.0.0.0.0",
+		"version_code": 1752,
+		"version_name": "1.20.08.16.03.53",
 		"type": "BLOCKED_APP",
 		"data": "",
-		"created_at": "2020-01-01 00:00:00"
+		"created_at": "2020-08-16 03:53:32"
+	}],
+	"FILTERED_SERVER": [{
+		"version_code": 159,
+		"version_name": null,
+		"type": "FILTERED_SERVER",
+		"data": "",
+		"created_at": null
 	}],
 	"SERVER_HEALTH_STATUS": [{
-		"version_code": 9999999,
-		"version_name": "1.0.0.0.0.0",
+		"version_code": 1,
+		"version_name": null,
 		"type": "SERVER_HEALTH_STATUS",
 		"data": "",
-		"created_at": "2020-01-01 00:00:00"
+		"created_at": null
 	}]
 }
