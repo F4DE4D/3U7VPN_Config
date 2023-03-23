@@ -1,0 +1,38 @@
+{
+	"FLAG": true,
+	"SERVER": [{
+		"version_code": 3303,
+		"version_name": "1.0.0.0.0.0",
+		"type": "SERVER",
+		"data": "",
+		"created_at": "2020-01-01 00:00:00"
+	}],
+	"PAYLOAD": [{
+		"version_code": 9999999,
+		"version_name": "1.0.0.0.0.0",
+		"type": "PAYLOAD",
+		"data": "",
+		"created_at": "2020-01-01 00:00:00"
+	}],
+	"GAMING_APP": [{
+		"version_code": 9999999,
+		"version_name": "1.0.0.0.0.0",
+		"type": "GAMING_APP",
+		"data": "",
+		"created_at": "2020-01-01 00:00:00"
+	}],
+	"BLOCKED_APP": [{
+		"version_code": 9999999,
+		"version_name": "1.0.0.0.0.0",
+		"type": "BLOCKED_APP",
+		"data": "",
+		"created_at": "2020-01-01 00:00:00"
+	}],
+	"SERVER_HEALTH_STATUS": [{
+		"version_code": 9999999,
+		"version_name": "1.0.0.0.0.0",
+		"type": "SERVER_HEALTH_STATUS",
+		"data": "",
+		"created_at": "2020-01-01 00:00:00"
+	}]
+}
