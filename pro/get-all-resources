@@ -1,5 +1,5 @@
 {
-	"FLAG": false,
+	"FLAG": true,
 	"SERVER": [{
 		"version_code": 3303,
 		"version_name": "1.23.03.03.03.27.pro",
