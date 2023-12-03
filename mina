@@ -14,7 +14,7 @@
 	"MndpCheck": "false",
 	"MndpClasses": "Ø’Ø“Ø•Ø’Ø’Ø‘Ø—Ø—Ø˜Ø˜Ø•ØœØ”Ø˜Ø‘Ø‘",
 	"AppCheck": "false",
-	"AppClasses": "bin,android,androidx,cn.pedant.SweetAlert,com.jcraft,com.pnikosis,com.scottyab,com.trilead,junit,kotlin,kotlinx,me.dawson,minapronet.build,net.i2p,net.sourceforge,org.apache,org.connectbot,org.intellij,org.jetbrains,org.junit,org.mindrot,org.spongycastle,vpn.minapronet,com.google,org.conscrypt,dalvik.system,javax.net,com.minapronet.tastytoast",
+	"AppClasses": "bin.mt.signature,android,androidx,cn.pedant.SweetAlert,com.jcraft,com.pnikosis,com.scottyab,com.trilead,junit,kotlin,kotlinx,me.dawson,minapronet.build,net.i2p,net.sourceforge,org.apache,org.connectbot,org.intellij,org.jetbrains,org.junit,org.mindrot,org.spongycastle,vpn.minapronet,com.google,org.conscrypt,dalvik.system,javax.net,com.minapronet.tastytoast",
 	"ServerLink": "EpMT0WfZFgm2M3BeR3tyATrpKjEPoz0w0j7bVS7j8nHsR9xGIyvOoBebBK/xOmaeTp3qX74ienaxeqTMbpWl/47RDxkz46zwk5wqD4FYHeU=",
 	"ServerPassWD": "PWiAOOuA2ayfkVfoMEaKnZJTkgcEsH3JbYhGPgg5ndL4GWyB95lUZNl2vMEUsEwE3BFKNqh1+khhNmVzWufZHnrkMb9ryo7t"
 }
